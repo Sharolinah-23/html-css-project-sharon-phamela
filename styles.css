@@ -1,0 +1,42 @@
+ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    display: inline-block;
+}
+.contacts{
+  list-style:none;
+  margin: 0%;
+  padding: 0;
+}
+
+.contacts li{
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: deeppink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} 
+li a:hover {
+    background-color: black;
+}
+
+h1{
+  font-family:"playfair Display"; 
+  font-size: 36px;
+  color: deeppink;
+  text-align: center;
+}
+body{
+  background-color: darkmagenta;
+}
